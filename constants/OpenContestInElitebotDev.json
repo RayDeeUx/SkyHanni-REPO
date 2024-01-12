@@ -1,0 +1,38 @@
+{
+    "earliest_contest": {
+        "earliest_contest_year": 100,
+        "earliest_contest_month": 6,
+        "earliest_contest_day": 18
+    },
+    "month_to_int": {
+        "Early Spring": 1,
+        "Spring": 2,
+        "Late Spring": 3,
+        "Early Summer": 4,
+        "Summer": 5,
+        "Late Summer": 6,
+        "Early Autumn": 7,
+        "Autumn": 8,
+        "Late Autumn": 9,
+        "Early Fall": 7,
+        "Fall": 8,
+        "Late Fall": 9,
+        "Early Winter": 10,
+        "Winter": 11,
+        "Late Winter": 12
+    },
+    "names_of_months": [
+        "Early Spring",
+        "Spring",
+        "Late Spring",
+        "Early Summer",
+        "Summer",
+        "Late Summer",
+        "Early Autumn",
+        "Autumn",
+        "Late Autumn",
+        "Early Winter",
+        "Winter",
+        "Late Winter"
+    ]
+}
